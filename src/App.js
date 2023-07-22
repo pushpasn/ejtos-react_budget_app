@@ -45,6 +45,8 @@ const App = () => {
                        
                         {/* Add ExpenseList component here under */
                     <div className='col-sm'>
+                    <h1 className='mt-3'> Allocation</h1>
+                  
                      <ExpenseList />
                         </div>
                     }        
